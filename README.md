@@ -1,2 +1,2 @@
 # CommSystems_Course
-Here you can find all lab code for the course of communication systems offered at DHBW Ravensburg
+This repository contains simulations designed for the course of communication systems (lab. part) I teach at the university.
